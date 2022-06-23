@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, github-workflow-azure-container-instance, github-workflow-azure-container-instance-graalvm, gradle, http-client, jackson-databind, java, java-application, jib, junit, logback, micronaut-build, netty-server, readme, security, security-annotations, security-jwt, security-oauth2, security-session, shade, testcontainers, yaml]
